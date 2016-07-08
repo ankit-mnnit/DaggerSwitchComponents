@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DaggerPOC</string>
+    <string name="gps_not_enabled">GPS not enabled. Enable?</string>
+    <string name="location_being_retrieved">Location is being retrieved. Please wait</string>
+    <string name="enable">Enable</string>
+    <string name="addressLine1">Address Line 1: %1$s</string>
+    <string name="addressLine2">Address Line 2: %1$s</string>
+    <string name="location_through">Location through: %1$s</string>
+    <string name="city">City: %1$s</string>
+    <string name="state">State: %1$s</string>
+    <string name="postal_code">Postal code: %1$s</string>
+    <string name="switch_controller">Switch Controller</string>
+</resources>
